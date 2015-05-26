@@ -39,7 +39,7 @@ a:hover {
 }
 
 #content h1 {
-	font-family: "freight-sans-pro";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 34px;
 	font-weight: 500;
 	color: #111;
@@ -50,14 +50,14 @@ a:hover {
 }
 
 h3 {
-	font-family: "freight-sans-pro";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 28px;
 	font-weight: 500;
 	color: #1081de;
 }
 
 h4 {
-	font-family: "freight-sans-pro";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 21px;
 	font-weight: 300;
 	color: #999;
@@ -99,7 +99,7 @@ li a:hover {
 }
 
 p {
-  font-family: "ff-tisa-web-pro";
+  font-family: 'Lora', serif;
   font-size: 21px;
   line-height: 34px;
   color: #666;
@@ -107,7 +107,7 @@ p {
 }
 
 .projects {
-  font-family: "ff-tisa-web-pro";
+  font-family: 'Lora', serif;
   font-size: 18px;
   line-height: 27px;
   color: #666;
