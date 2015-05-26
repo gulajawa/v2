@@ -6,7 +6,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 
 body {
-	font:16px/1 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
 	-webkit-font-smoothing:antialiased;
 	text-rendering:optimizeLegibility;
 	height: 100%;
