@@ -35,8 +35,7 @@ a {
   border-bottom: dotted 1px rgba(88, 88, 88, 0.5); }
   a:hover {
     border-bottom-color: transparent;
-    color: #ffffff !important; 
-}
+    color: #ffffff !important; }
 body {
 	line-height:1
 }
